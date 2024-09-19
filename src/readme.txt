@@ -1,0 +1,1 @@
+请在 linux 平台下使用 make run 进行编译。
